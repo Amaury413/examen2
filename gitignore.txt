@@ -1,0 +1,6 @@
+# Environ
+.env
+
+# Virtual environment
+venv/
+examen2/
